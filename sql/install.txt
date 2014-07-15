@@ -1,0 +1,7 @@
+asi creas una carpeta en el localhost y la llamas "admin"
+
+y en la base de datos 
+
+debes crear una base de datos con el nombre "ci_empledos"
+user: root
+pass: 
